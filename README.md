@@ -27,6 +27,13 @@ open http://localhost:8000
 ## References
 
 * https://surge.sh
+* https://developer.apple.com/augmented-reality/
+  * https://developer.apple.com/augmented-reality/quick-look/
+  * https://developer.apple.com/augmented-reality/arkit/
+  * https://developer.apple.com/augmented-reality/realitykit/
+  * https://developer.apple.com/augmented-reality/roomplan/
+  * https://developer.apple.com/augmented-reality/tools/
 * https://webkit.org/blog/8421/viewing-augmented-reality-assets-in-safari-for-ios/
-* https://developer.apple.com/augmented-reality/tools/
+* https://developer.apple.com/documentation/arkit/previewing_a_model_with_ar_quick_look
+
 
