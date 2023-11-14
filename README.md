@@ -35,5 +35,3 @@ open http://localhost:8000
   * https://developer.apple.com/augmented-reality/tools/
 * https://webkit.org/blog/8421/viewing-augmented-reality-assets-in-safari-for-ios/
 * https://developer.apple.com/documentation/arkit/previewing_a_model_with_ar_quick_look
-
-
