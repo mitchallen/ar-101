@@ -7,6 +7,10 @@ On iOS, browse to this site:
 
 * https://mitch-ar.surge.sh
 
+For more examples that I've built:
+
+* https://ar-react.surge.sh
+
 It's still a bit wonky.
 
 * Tap the screen to get the object menu
